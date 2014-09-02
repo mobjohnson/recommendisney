@@ -1,0 +1,3 @@
+def RestaurantController < ApplicationController
+
+end

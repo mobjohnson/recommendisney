@@ -1,0 +1,3 @@
+def UsersController < ApplicationController
+
+end
